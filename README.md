@@ -1,6 +1,7 @@
 # ng2-play.ts
 
 This is my fork of [pkozlowski's](https://github.com/pkozlowski-opensource/ng2-play) minimal [Angular2](https://angular.io/) playground using [TypeScript](http://www.typescriptlang.org/) and [SystemJS loader](https://github.com/systemjs/systemjs)
+
 I have added some additional tools I regularly use e.g. Browsersync. I will also be modularizing the structure when I get round to it!
 
 ## Install
